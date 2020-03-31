@@ -16,5 +16,10 @@ Dependencies
 * requests==2.23.0
 * python-dateutil==2.8.1
 
+
+Screenshot
+
+![Image of Script](https://github.com/natekhchan/covid19plus/blob/master/Covid19Image.png)
+
 # Greetz to 
 mdleung a.k.a Darth, cyberalvin, Aaron Race, and pyneapple
