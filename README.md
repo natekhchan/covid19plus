@@ -1,4 +1,4 @@
-# covid19plus
+# covid19+
 A Covid19 Stats Analyzer
 
 **covid19plus** is a stats analyzer using the api of: api.covid19api.com
