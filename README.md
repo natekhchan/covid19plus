@@ -11,10 +11,10 @@ For easy installation of libraries / packages, use:
 
 Dependencies
 
-pandas==1.0.3
-numpy==1.18.2
-requests==2.23.0
-python-dateutil==2.8.1
+* pandas==1.0.3
+* numpy==1.18.2
+* requests==2.23.0
+* python-dateutil==2.8.1
 
 # Greetz to 
 mdleung a.k.a Darth, cyberalvin, Aaron Race, and pyneapple
