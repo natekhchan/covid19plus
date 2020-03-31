@@ -7,7 +7,7 @@ If you need to fork this, please submit a pull request first.
 
 For easy installation of libraries / packages, use:
 
-```pip install -r requirements.txt;```
+```pip install -r requirements.txt```
 
 
 Dependencies
