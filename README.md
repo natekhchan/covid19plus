@@ -1,7 +1,7 @@
 # covid19plus
 A Covid19 Stats Analyzer
 
-covid19plus is a stats analyzer using the api of: api.covid19api.com
+**covid19plus** is a stats analyzer using the api of: api.covid19api.com
 If you need to fork this, please submit a pull request first.
 
 For easy installation of libraries / packages, use:
